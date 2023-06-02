@@ -1,6 +1,6 @@
 const configDB = {
-  user: "postgres",
-  password: "123",
+  user: "postgres://bnb_user_admin:qKXNgQx8p8dNmpBLwCsD9ZngzOA7SDJl@dpg-cht28t2k728qeg205is0-a/bnb",
+  password: "qKXNgQx8p8dNmpBLwCsD9ZngzOA7SDJl",
   database: "bnb",
   port: 5432,
 };
