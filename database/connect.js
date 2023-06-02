@@ -8,6 +8,7 @@ client
     console.log("Connected to database");
   })
   .catch((e) => {
+    console.log(e);
     console.log("Error connecting to database");
   });
 
